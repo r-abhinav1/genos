@@ -88,8 +88,8 @@ Genos is designed to be a versatile Discord bot with the following modules:
 
 ### Additional Commands
 
-- **`datab`**: Displays all entries in the database.
-- **`luffy`**: Clears all entries in the database.
+- **`showdb`**: Displays all entries in the database.
+- **`cleardb`**: Clears all entries in the database.
 
 ### Hangman Game
 
